@@ -9,12 +9,10 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Dian Nusantara]| Bachelor of Software Engineering | Cibubur 2022 - 2026
+   - Mahasiswa Universitas Dian Nusantara
+ #### 2. [SMK Cahaya Otomotif 2] | TEKNIK KOMPUTER DAN JARINGAN | Bogor `2018-2021`
+   - Pakibraka
 
 ## Work Experience:
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
